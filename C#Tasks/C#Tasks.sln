@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#Tasks", "C#Tasks.csproj", "{43D63F96-EE56-4C4B-8D72-A575E93A86BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloading", "..\MethodOverloading\MethodOverloading.csproj", "{66D2660A-9E1E-4723-AFAE-37C0B3BDCD81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43D63F96-EE56-4C4B-8D72-A575E93A86BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D63F96-EE56-4C4B-8D72-A575E93A86BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D63F96-EE56-4C4B-8D72-A575E93A86BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D63F96-EE56-4C4B-8D72-A575E93A86BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D2660A-9E1E-4723-AFAE-37C0B3BDCD81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D2660A-9E1E-4723-AFAE-37C0B3BDCD81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D2660A-9E1E-4723-AFAE-37C0B3BDCD81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D2660A-9E1E-4723-AFAE-37C0B3BDCD81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94033B93-FB21-4D08-B547-0331C0074768}
+	EndGlobalSection
+EndGlobal
