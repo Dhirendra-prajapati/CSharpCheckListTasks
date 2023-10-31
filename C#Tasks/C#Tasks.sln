@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#Tasks", "C#Tasks.csproj",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloading", "..\MethodOverloading\MethodOverloading.csproj", "{66D2660A-9E1E-4723-AFAE-37C0B3BDCD81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverriding", "..\MethodOverriding\MethodOverriding.csproj", "{240DD2CB-A13D-49AD-B820-6FC5BC7B84DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorOverloading", "..\MethodOverriding\ConstructorOverloading.csproj", "{240DD2CB-A13D-49AD-B820-6FC5BC7B84DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
