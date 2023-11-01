@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stringbuilder", "..\Stringb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "..\Stack\Stack.csproj", "{2A8F1FF6-4B8B-4C8A-9198-5370162D7E20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_overriding", "..\Method_overriding\Method_overriding.csproj", "{60C86B3B-DE80-4D1C-BDBB-B23880581680}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{2A8F1FF6-4B8B-4C8A-9198-5370162D7E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A8F1FF6-4B8B-4C8A-9198-5370162D7E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A8F1FF6-4B8B-4C8A-9198-5370162D7E20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C86B3B-DE80-4D1C-BDBB-B23880581680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C86B3B-DE80-4D1C-BDBB-B23880581680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C86B3B-DE80-4D1C-BDBB-B23880581680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C86B3B-DE80-4D1C-BDBB-B23880581680}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
