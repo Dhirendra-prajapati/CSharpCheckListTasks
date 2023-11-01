@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorOverloading", ".
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopWatch", "..\StopWatch\StopWatch.csproj", "{1E87FBEB-E4D2-474D-B02D-232A3089939C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stringbuilder", "..\Stringbuilder\Stringbuilder.csproj", "{D491C822-A63F-4DF5-BF55-8BD94F1F06EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1E87FBEB-E4D2-474D-B02D-232A3089939C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E87FBEB-E4D2-474D-B02D-232A3089939C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E87FBEB-E4D2-474D-B02D-232A3089939C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D491C822-A63F-4DF5-BF55-8BD94F1F06EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D491C822-A63F-4DF5-BF55-8BD94F1F06EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D491C822-A63F-4DF5-BF55-8BD94F1F06EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D491C822-A63F-4DF5-BF55-8BD94F1F06EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
