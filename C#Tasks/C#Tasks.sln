@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "..\Stack\Stack.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_overriding", "..\Method_overriding\Method_overriding.csproj", "{60C86B3B-DE80-4D1C-BDBB-B23880581680}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primitive_dataTypes", "..\Primitive_dataTypes\Primitive_dataTypes.csproj", "{F57BB410-FD3A-4B3A-9B4E-FB80AD9112C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{60C86B3B-DE80-4D1C-BDBB-B23880581680}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60C86B3B-DE80-4D1C-BDBB-B23880581680}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60C86B3B-DE80-4D1C-BDBB-B23880581680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F57BB410-FD3A-4B3A-9B4E-FB80AD9112C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57BB410-FD3A-4B3A-9B4E-FB80AD9112C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57BB410-FD3A-4B3A-9B4E-FB80AD9112C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57BB410-FD3A-4B3A-9B4E-FB80AD9112C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
