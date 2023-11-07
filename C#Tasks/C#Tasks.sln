@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method_overriding", "..\Met
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primitive_dataTypes", "..\Primitive_dataTypes\Primitive_dataTypes.csproj", "{F57BB410-FD3A-4B3A-9B4E-FB80AD9112C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_Interpolation", "..\String_Interpolation\String_Interpolation.csproj", "{08CF09D9-BAC1-414D-99B2-D8DE8C59BDB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{F57BB410-FD3A-4B3A-9B4E-FB80AD9112C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F57BB410-FD3A-4B3A-9B4E-FB80AD9112C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F57BB410-FD3A-4B3A-9B4E-FB80AD9112C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08CF09D9-BAC1-414D-99B2-D8DE8C59BDB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08CF09D9-BAC1-414D-99B2-D8DE8C59BDB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08CF09D9-BAC1-414D-99B2-D8DE8C59BDB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08CF09D9-BAC1-414D-99B2-D8DE8C59BDB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
