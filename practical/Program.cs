@@ -9,18 +9,21 @@ using System.Threading.Tasks;
 
 namespace practical
 {
+  
     internal class Program
     {
-        
-       
         static void Main(string[] args)
         {
-            Func<int, int> square = number => number * number;
-            Console.WriteLine("The square of number"+square(5));
-            const int factor = 5;
-            Func<int, int> multipler = number => number * factor;
-            int result = multipler(10);
-            Console.WriteLine(result);
+            List<int> numbers = new List<int>() { 2,3,4,5,6,7,8,9,12,13,14,15};
+            foreach(int i in numbers)
+            {
+                Console.WriteLine(i);
+            }
+            var square = numbers.Select(n => n * n);
+            Console.WriteLine("square of number");
+            foreach(int n in square)
+                Console.WriteLine(n);
+
             Console.ReadLine();
 
         }
